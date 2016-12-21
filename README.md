@@ -22,6 +22,7 @@ amend iOS framework is available at [https://github.com/amendcloud/amend_ios_obj
 
 1. Go to [https://github.com/amendcloud/amend_ios_objectiveC](https://github.com/amendcloud/amend_ios_objectiveC) and download iOS library.
 2. Drag and Drop following files into your project.
+
 	Amend.h	
 	Amend.m	
 	AmendImageView.h
